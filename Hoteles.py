@@ -1,0 +1,1 @@
+print("Bienvenido al Hotel Copito de Nieve")
